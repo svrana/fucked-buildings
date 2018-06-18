@@ -1,6 +1,6 @@
 # At risk buildings in San Francisco
 
-## 1-39 based on this [report](https://pubs.usgs.gov/sir/2017/5013/sir20175013iq.pdf) by the USGS
+## 1-39 are welded steel moment-frame buildings at risk based on this USGS [report](https://pubs.usgs.gov/sir/2017/5013/sir20175013iq.pdf)
 
 1. Hartford Building, 650 California
 
@@ -78,5 +78,4 @@
 
 38. San Francisco Marriott, 55 Four
 
-39. Embarcadero West, 275 Battery fucked-buildings
-List of buildings in SF at risk during a major quake
+39. Embarcadero West, 275 Battery
