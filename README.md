@@ -1,6 +1,6 @@
 # At risk buildings in San Francisco
 
-## 1-39 are welded steel moment-frame buildings at risk based on this USGS [report](https://pubs.usgs.gov/sir/2017/5013/sir20175013iq.pdf)
+## 1-39 are welded steel moment-frame buildings at risk based on this USGS [report](https://pubs.usgs.gov/sir/2017/5013/sir20175013iq.pdf). Analysis [here](https://www.nytimes.com/2018/06/14/us/california-earthquakes-high-rises.html)
 
 1. Hartford Building, 650 California
 
